@@ -15,9 +15,11 @@ Meu nome é Nicole Licyane, tenho 16 anos e estou no 2° ano do ensino médio.
    
 
 
+## Justificativa das atividades escolhidas
+* Linguagem Computacional
+<br> [AtividadesPA.java](https://github.com/strawnico/Portifolio/blob/main/LogicaComputacional/AtividadesPA.java): Escolhi essa atividade pois foi meu primeiro contato com o java, foi muito legal e importante.
+<br> [NumerosPrimos.java](https://github.com/strawnico/Portifolio/blob/main/LogicaComputacional/NumerosPrimos.java): Decidi colocar essa atividade pois foi umas das atividades de java que eu mais gostei de fazer.
 
-## About my portifolio
-Nesse portifolio contém trabalhos feitos durante o ensino médio técnico senai. Durantes os anos, tivemos os seguintes módulos:
-* Lógica computacional;
-* Fundamentos de TI;
-* Fudamentos de Design.
+* Fundamentos de Design
+<br> [FoodU-Cores-Quadráticas](https://github.com/strawnico/Portifolio/blob/main/FundamentosDesign/FoodU-Cores-Quadr%C3%A1ticas): Nessa atividade tivemos que fazer o design de um app (no meu caso era de comida com restrições alimentares) com as cores designadas para cada grupo. Achei muito legal faze-la. 
+<br> [Cores](https://github.com/strawnico/Portifolio/blob/main/FundamentosDesign/Fundamentos%20de%20Design%20-%20Cores%20(1).pdf): Escolhi colocar essa atividade pois a turma fez em conjunto, foi bem dinâmica e eu gostaria de ter mais aulas como essa.
