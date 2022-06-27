@@ -1,1 +1,7 @@
-A autoria que eu e minha dupla fizemos é basicamente uma recriação de sensor de entrada, como é usado nos mercados, padarias, lojas etc. Quando passar algum objeto ou pessoa pela porta, toca uma música simples dos Simpsons e ativa uma tela LCD com a seguinte frase: "Seja bem-vindo a turma 2B"
+# Sensor de entrada
+
+### Funcionamento
+A autoria que eu e minha dupla fizemos é basicamente uma recriação de sensor de entrada, como é usado nos mercados, padarias, lojas etc. Quando passar algum objeto ou pessoa pela porta, toca uma música simples dos Simpsons e ativa uma tela LCD com a seguinte frase: "Seja bem-vindo a turma 2B"**
+
+### Funcionamento
+No vídeo, quando o celular passa pelo sensor, toca uma música simples dos Simpsons e ativa uma tela LCD com a seguinte frase: "Seja bem-vindo a turma 2B.
