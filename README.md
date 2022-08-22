@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/102531965/160427081-ae400960-57ab-40d1-b911-094004d8b734.png" alt="drawing" width="200"/>
 
 ### **Informações básicas** 
-Meu nome é Nicole Licyane, tenho 16 anos e estou no 2° ano do ensino médio.
+Meu nome é Nicole Licyane, tenho 17 anos e estou no 2° ano do ensino médio.
  Amo astronomia e estudo por conta própria desde meus 11/12 anos de idade pois pretendo seguir na carreira. Massss, eu gosto muito também de programar, é meio que meu plano B se a astronomia der errado.
 
 ### **Repertório**:
