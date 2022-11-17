@@ -1,0 +1,43 @@
+//Atividade sobre restaurante;
+//Escolhi essa atividade pois achei legal :D
+
+CREATE TABLE Comida(
+	mesaQueEscolheu int NOT NULL,
+  	codigo VARCHAR(8) NOT NULL,
+    pedido VARCHAR(100) NOT NULL,
+ 	PRIMARY key (codigo)
+)
+
+CREATE TABLE Garcons (
+	nome VARCHAR(10) NOT NULL,
+  	cadastro VARCHAR(10) NOT NULL,
+	mesaQueAtende int NOT NULL,
+ 	codigoComida VARCHAR(8) NOT NULL,
+    PRIMARY KEY (cadastro),
+  	FOREIGN key (codigoComida)
+  	REFERENCES comida (codigo)
+)
+
+CREATE TABLE Cozinheiro (
+	nome VARCHAR(10) NOT NULL,
+  	cpf VARCHAR(10) NOT NULL,
+  	pedidosAFazer VARCHAR(50) NOT NULL,
+    PRIMARY KEY (cpf),
+  	FOREIGN key (pedidosAFazer)
+  	REFERENCES comida (codigo)
+)
+
+CREATE TABLE Clientes (
+	nome VARCHAR(10) NOT NULL,
+  	pedidos VARCHAR(10) NOT NULL,
+	mesa int NOT NULL,
+    PRIMARY KEY (mesa),
+  	FOREIGN key (pedidos)
+  	REFERENCES comida (codigo)
+)
+
+INSERT INTO comida (mesaQueEscolheu, codigo, pedido)
+VALUES (9, '315444', 'Bananinha Vegana'),
+(15, '014805', 'Arroz e feijão com batata frita')
+
+SELECT * FROM comida;
